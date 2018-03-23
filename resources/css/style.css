@@ -22,3 +22,9 @@ p {
 body {
   background-color: black;
 }
+
+footer {
+  font-family: Verdana;
+  color: gray;
+  text-align: right;
+}
